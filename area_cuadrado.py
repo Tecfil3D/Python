@@ -1,5 +1,5 @@
 # Hallar el área de un cuadrado
-# Codigo:
+# Código:
 
 """
 b = base
@@ -13,4 +13,3 @@ a = float(input("introduzca la altura: "))
 area = b * a
 
 print("El area del cuadrado es: ", area)
-
